@@ -49,4 +49,16 @@ bucket_name=your-google-cloud-storage-bucket-name
 python housing_stats.py
 ```
 
+## Docker Usage
+
+1. Build the Docker image:
+```bash
+docker build -t housing-stats .
+```
+
+2. Run the Docker container:
+```bash
+docker run housing-stats
+```
+
 Feel free to customize it further based on your specific requirements or additional information you want to provide.
