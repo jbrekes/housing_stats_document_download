@@ -1,12 +1,12 @@
 # pip install google-cloud-storage
 
-import pandas as pd
-import requests
+import pandas as pd # type: ignore
+import requests # type: ignore
 import zipfile
 import os
 import sqlite3
 from google.cloud import storage
-from google.oauth2 import service_account
+from google.oauth2 import service_account # type: ignore
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
