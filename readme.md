@@ -23,7 +23,7 @@ This Python script automates the process of downloading the most up-to-date SQLi
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/housing_stats_document_download.git
+git clone https://github.com/jbrekes/housing_stats_document_download.git
 ```
 
 2. Navigate to the project directory:
